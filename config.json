@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "name": "CleanForce",
+    "tagline": "Orlando's Premier Pressure Washing",
+    "badge": "Licensed & Insured",
+    "heroHeadline": "Pressure washing that actually looks professional.",
+    "heroSub": "Transparent pricing. Online booking. Same-week service for residential and commercial properties across Greater Orlando.",
+    "logo": "/images/logo.png",
+    "colors": {
+      "primary": "210, 90%, 52%",
+      "accent": "45, 100%, 55%",
+      "bg": "#060608",
+      "card": "#111113",
+      "border": "rgba(255,255,255,0.08)"
+    },
+    "font": "Inter"
+  },
+  "stats": [
+    { "value": "500+", "label": "Properties cleaned this year" },
+    { "value": "4.9★", "label": "Google rating (120+ reviews)" },
+    { "value": "Same-week", "label": "Scheduling for most jobs" },
+    { "value": "Insured", "label": "Fully licensed & bonded" }
+  ],
+  "services": [
+    {
+      "name": "Driveway & Walkway",
+      "description": "High-pressure surface cleaning for concrete, pavers, and brick. Removes oil stains, mold, and years of buildup.",
+      "price": 150,
+      "deposit": 75,
+      "features": [
+        "Up to 600 sq ft coverage",
+        "Hot water treatment for oil stains",
+        "Pre-treatment with eco-safe solution",
+        "Edging and detail work included",
+        "Same-day turnaround"
+      ]
+    },
+    {
+      "name": "Full House Wash",
+      "description": "Complete exterior soft wash — siding, gutters, fascia, soffit, and trim. Safe for all surfaces including stucco and vinyl.",
+      "price": 350,
+      "deposit": 175,
+      "popular": true,
+      "features": [
+        "Up to 2,500 sq ft home",
+        "Soft wash safe for all surfaces",
+        "Gutter brightening included",
+        "Window rinse (exterior)",
+        "Mold & mildew treatment",
+        "Before/after photo report"
+      ]
+    },
+    {
+      "name": "Full Property Package",
+      "description": "Everything — driveway, walkways, house wash, patio, pool deck, and fence. The complete reset.",
+      "price": 600,
+      "deposit": 300,
+      "features": [
+        "Everything in House Wash",
+        "Driveway + all walkways",
+        "Patio & pool deck",
+        "Fence cleaning (up to 200 linear ft)",
+        "Priority scheduling",
+        "Satisfaction guarantee"
+      ]
+    }
+  ],
+  "addons": [
+    { "name": "Roof Soft Wash", "price": 200, "description": "Safe chemical treatment for shingle and tile roofs" },
+    { "name": "Patio Sealing", "price": 150, "description": "Protective sealant after cleaning for pavers and concrete" },
+    { "name": "Gutter Interior Clean", "price": 100, "description": "Debris removal and flush for all gutters and downspouts" }
+  ],
+  "gallery": [
+    { "src": "/images/gallery-1.jpg", "label": "Driveway — Before & After", "description": "Complete oil stain removal and surface restoration on a 2-car driveway." },
+    { "src": "/images/gallery-2.jpg", "label": "House Exterior Soft Wash", "description": "Vinyl siding restoration — mold and algae removed with safe soft wash." },
+    { "src": "/images/gallery-3.jpg", "label": "Pool Deck Deep Clean", "description": "Textured concrete pool deck cleaned and sealed for a resort-quality finish." }
+  ],
+  "contact": {
+    "phone": "(407) 555-1234",
+    "email": "book@cleanforce.com",
+    "address": "Orlando, FL"
+  },
+  "seo": {
+    "title": "CleanForce Pressure Washing — Instant Quote & Online Payment",
+    "description": "Get an instant quote for professional pressure washing in Orlando. Pay securely online with Card, Apple Pay, or Google Pay. Licensed & insured."
+  },
+  "footer": {
+    "legal": "CleanForce Pressure Washing LLC",
+    "links": [
+      { "label": "cleanforce.com", "href": "https://cleanforce.com" }
+    ]
+  }
+}
